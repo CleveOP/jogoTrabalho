@@ -5,6 +5,7 @@ body {
     margin: 0;
     padding: 0;
     background: linear-gradient(to left, #0c0611, #313b4d);
+    font-family: "Orbitron", sans-serif;
 }
 
 #game-container {
